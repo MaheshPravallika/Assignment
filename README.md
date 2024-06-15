@@ -1,1 +1,1 @@
-Assignments from DDS AI residency program
+Assignments from the DDS AI residency program
